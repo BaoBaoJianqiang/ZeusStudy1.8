@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jianqiang.com.plugin1">
+
+    <application
+        android:name=".Plugin1Application"
+        android:allowBackup="true" >
+
+
+    </application>
+
+</manifest>
